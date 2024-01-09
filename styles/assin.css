@@ -1,0 +1,13 @@
+body {
+    background-image: url(../resources/Banner\ Image.png);
+    padding: 50px 150px;
+
+}
+
+.banner-content {
+    color: #FFF;
+    text-align: center;
+    font-family: Merriweather;
+    padding: 50px 150px;
+
+}
